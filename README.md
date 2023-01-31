@@ -22,7 +22,7 @@ Architecture](https://github.com/rpbhandwalkar/Bulky-Book-Ntier-Architecture)
 
 - 📄 Know about my experiences [My CV](shorturl.at/mxAHW)
 
-- ⚡ Fun fact **I think I am quick learner**
+- ⚡ Fun fact **I am quick learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
