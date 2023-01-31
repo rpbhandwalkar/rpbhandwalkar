@@ -106,6 +106,14 @@ Architecture](https://github.com/rpbhandwalkar/Bulky-Book-Ntier-Architecture)
         rel="noreferrer">
         <img src="https://raw.githubusercontent.com/github/explore/680b4717c7acabd1eb10b8c008991a160a84bc88/topics/blazor/blazor.png"
             alt="Blazor" width="60" height="60" /> </a>
+         <a href="https://learn.microsoft.com/en-us/aspnet/core/web-api/?WT.mc_id=dotnet-35129-website&view=aspnetcore-7.0" target="_blank"
+        rel="noreferrer">
+        <img src="https://www.ritechpune.com/backend/courseicon/WebAPICore.jpg"
+            alt="WebApi" width="60" height="60" /> </a>
+            <a href="https://www.tutorialspoint.com/agile/index.htm" target="_blank"
+        rel="noreferrer">
+        <img src="https://thumbs.dreamstime.com/b/agile-icon-methodology-vector-development-scrum-flexible-software-logo-concept-251477234.jpg"
+            alt="WebApi" width="60" height="60" /> </a>
 </p>
 
 <p><img align="left"
