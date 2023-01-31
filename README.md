@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1mL_4Dn35Zv17oV3w0haunrgCw17veqVd/edit?usp=sharing&ouid=111649066546053246205&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I think I am quick learner**
+- ⚡ Fun fact **I am quick learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
