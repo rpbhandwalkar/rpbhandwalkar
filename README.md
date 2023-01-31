@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rpbhandwalkar@gmail.com**
 
-- 📄 Know about my experiences [My CV](shorturl.at/mxAHW)
+- 📄 Know about my experiences [My CV](https://docs.google.com/document/d/1mL_4Dn35Zv17oV3w0haunrgCw17veqVd/edit?usp=sharing&ouid=111649066546053246205&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I think I am quick learner**
 
