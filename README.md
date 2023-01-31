@@ -44,9 +44,7 @@ Architecture](https://github.com/rpbhandwalkar/Bulky-Book-Ntier-Architecture)
             alt="Repository Pattern" width="60" height="60" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="60" height="60" /> </a> <a href="https://cassandra.apache.org/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg"
-            alt="cassandra" width="60" height="60" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"
+            alt="bootstrap" width="60" height="60" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
             alt="csharp" width="60" height="60" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -84,13 +82,7 @@ Architecture](https://github.com/rpbhandwalkar/Bulky-Book-Ntier-Architecture)
             alt="mysql" width="60" height="60" /> </a> <a href="https://www.oracle.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="60" height="60" /> </a> <a href="https://www.postgresql.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="60" height="60" /> </a> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="60" height="60" /> </a> <a href="https://visualstudio.microsoft.com/" target="_blank"
+            alt="oracle" width="60" height="60" /> </a>  <a href="https://visualstudio.microsoft.com/" target="_blank"
         rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png"
             alt="VisualStudio" width="60" height="60" /> </a>
@@ -113,7 +105,15 @@ Architecture](https://github.com/rpbhandwalkar/Bulky-Book-Ntier-Architecture)
             <a href="https://www.tutorialspoint.com/agile/index.htm" target="_blank"
         rel="noreferrer">
         <img src="https://thumbs.dreamstime.com/b/agile-icon-methodology-vector-development-scrum-flexible-software-logo-concept-251477234.jpg"
-            alt="WebApi" width="60" height="60" /> </a>
+            alt="WebApi" width="60" height="60" /> </a><a href="https://www.postgresql.org" target="_blank"
+            rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                alt="postgresql" width="60" height="60" /> </a> <a href="https://www.python.org" target="_blank"
+            rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                alt="python" width="60" height="60" /> </a> <a href="https://cassandra.apache.org/" target="_blank"
+                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg"
+                    alt="cassandra" width="60" height="60" /> </a>
 </p>
 
 <p><img align="left"
