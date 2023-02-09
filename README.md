@@ -20,7 +20,7 @@ Architecture](https://github.com/rpbhandwalkar/Bulky-Book-Ntier-Architecture)
 
 - 📫 How to reach me **rpbhandwalkar@gmail.com**
 
-- 📄 Know about my experiences [My CV](shorturl.at/mxAHW)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1X1fPIy9kluChQODL_l8FgohecCm6IQtN/view?usp=share_link)
 
 - ⚡ Fun fact **I am quick learner**
 
