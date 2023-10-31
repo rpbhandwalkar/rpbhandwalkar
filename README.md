@@ -11,8 +11,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Bulky Book Ntier
-Architecture](https://github.com/rpbhandwalkar/Bulky-Book-Ntier-Architecture),[ Magic_Villa_API](https://github.com/rpbhandwalkar/Magic_Villa_API)
+- 🔭 I’m currently working on [Azure ]
 
 - 🌱 I’m currently learning **TypeScript and Angular**
 
@@ -20,7 +19,7 @@ Architecture](https://github.com/rpbhandwalkar/Bulky-Book-Ntier-Architecture),[ 
 
 - 📫 How to reach me **rpbhandwalkar@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1iaYMLAG9yHSxwoST9RzEZbqlqXmT5ofq/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1IJZC7GcCb2HW2iHHbEFW8-lQT4aXKYio/view?usp=drive_link)
 
 - ⚡ Fun fact **I am quick learner**
 
